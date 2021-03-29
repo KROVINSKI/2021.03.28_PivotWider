@@ -24,3 +24,90 @@ Date: R document March 2021
 
 Video available at: https://www.youtube.com/watch?v=gnUgSkKEW5c
 
+
+
+
+# Version Check
+```{r 0.1 Version Check , echo=FALSE, results=FALSE, message=FALSE, warning=FALSE}
+#*********************************
+## Version Check
+#********************************* 
+R.version
+
+```
+
+
+
+#1.) Library
+```{r}
+#*********************************
+## Libraries
+#********************************* 
+library(tidyverse)
+library(tidyr)
+library(here)
+
+```
+
+
+#2.) My Data
+```{r}
+#*********************************
+## My Data
+#********************************* 
+
+q1prices <- read_csv(here::here("01_rawData", "prices_every4years_wide2.xlsx"))
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+#**************E*N*D*************# 
+#*********************************
+## END OF SCRIPT | END OF DOCUMENT 
+#*********************************
+```
+
+
+## END OF SCRIPT | END OF DOCUMENT
