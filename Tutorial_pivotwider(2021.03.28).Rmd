@@ -57,6 +57,11 @@ library(here)
 #********************************* 
 
 q1prices <- read_csv(here::here("01_rawData", "prices_every4years_wide2.xlsx"))
+# q1prices <- read_csv(here("01_rawData", "prices_every4years_wide2.xlsx"))
+# example of a wide dataframe
+## multiple datapoints in a single row
+## important information in the column name, rather than in the data itself
+
 
 
 ```
