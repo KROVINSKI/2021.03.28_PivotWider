@@ -1,0 +1,26 @@
+
+---
+title: "How to reshape data with tidyr’s new pivot functions" (April 2019) by Sharon
+output:
+ html_document:
+    df_print: paged
+    code_folding: hide
+    toc: TRUE
+    toc_depth: 4
+    toc_float: true
+    theme: cerulean
+    highlight: haddock
+    smart: false
+editor_options: 
+  chunk_output_type: inline
+---
+
+
+Hello World
+
+Author: OA Lab, NWFSC - Kate doing a tutorial
+Title: Using the Pivot Wider Function
+Date: R document March 2021
+
+Video available at: https://www.youtube.com/watch?v=gnUgSkKEW5c
+
